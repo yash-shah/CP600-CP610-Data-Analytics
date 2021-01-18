@@ -1,4 +1,4 @@
-# CP600: Practical Algorithm Design
+# CP600: Practical Algorithm Design and Data Analytics
 
 *Yash Shah*
 
